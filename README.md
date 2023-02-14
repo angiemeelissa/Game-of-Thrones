@@ -10,4 +10,6 @@
 </sub>
 
 **Puede entrar este link para ver  [Momentos Epicos de Game of Thrones](https://www.youtube.com/watch?v=KKOZqn8q49A)**
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hotstar.com%2Fin%2Ftv%2Fgame-of-thrones%2F8184&psig=AOvVaw0j_dZLo9gZ8AiY3029sru0&ust=1676473583397000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiFnPWklf0CFQAAAAAdAAAAABAE)
+![GAME OF THRONES](https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h.svg)
+
+
