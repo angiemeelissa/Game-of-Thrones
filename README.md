@@ -14,7 +14,7 @@
 
 <sub>
   Mis personajes Favoritos de Game of Thrones son: 
-  1. Sansa Stark 
-  2. Daeynerys Targerian
-  3. Tyron Lanister
+  + Sansa Stark 
+  + Daeynerys Targerian
+  + Tyron Lanister
  </sub>
