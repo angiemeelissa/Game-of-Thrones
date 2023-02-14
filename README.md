@@ -12,4 +12,9 @@
 **Puede entrar este link para ver  [Momentos Epicos de Game of Thrones](https://www.youtube.com/watch?v=KKOZqn8q49A)**
 ![GAME OF THRONES](https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/4909/474909-h.svg)
 
-
+<sub>
+  Mis personajes Favoritos de Game of Thrones son: 
+  1. Sansa Stark 
+  2. Daeynerys Targerian
+  3. Tyron Lanister
+ </sub>
